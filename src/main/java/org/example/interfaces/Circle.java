@@ -1,4 +1,4 @@
-package org.example.interfacesmodule8;
+package org.example.interfaces;
 
 public class Circle extends Shape{
     public Circle(){

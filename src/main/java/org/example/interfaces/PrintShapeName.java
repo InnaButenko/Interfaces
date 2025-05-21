@@ -1,6 +1,6 @@
-package org.example.interfacesmodule8;
+package org.example.interfaces;
 
-import java.awt.*;
+
 
 public class PrintShapeName {
 

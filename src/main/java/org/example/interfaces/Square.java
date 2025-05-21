@@ -1,4 +1,4 @@
-package org.example.interfacesmodule8;
+package org.example.interfaces;
 
 public class Square extends Shape{
     public Square() {
